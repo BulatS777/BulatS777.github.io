@@ -1,15 +1,40 @@
-body {font-family: sans-serif; 
+body {
+font-family: sans-serif; 
 line-height: 1.5;
 background-color: azure;
 color: #333333;
-width: 980 px; margin: 0 auto;}
+width: 980 px;
+margin: 0 auto;
+}
 h1 {
   text-align: center;
-  font-size: 36 px;
-  margin-bottom: 0;
+  font-size: 60 px;
+  margin-bottom:10 px;
+  margin-top: 50 px;
 }
  h2 {
    text-align: center;
-      font-size: 24 px;
-      margin-bottom: 0;
+   font-size: 24 px;
+   margin-bottom: 30 px;
+   margin-top: 0 px;
  }
+main {
+  waidth: 900 px;
+  margin: 0 auto;
+}
+section [
+margin-bottom: 50 px;
+}
+section > h2 [
+padding-botton: 0;
+padding-top: 0;
+padding-left: 0;
+padding-right: 0;
+text-align: left;
+}
+li {
+ margin-bottom: 10 px; 
+}
+ul {
+  margin-bottom: 10 px;
+  
