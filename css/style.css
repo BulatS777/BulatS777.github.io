@@ -1,5 +1,5 @@
 body {
-    background-color: #f8f9fa;
+    background-color: rgb(131 163 209 / 25%);
     color: #333;
     line-height: 1.6;
   }
@@ -36,6 +36,7 @@ body {
   ul {
     margin-bottom: 10 px;
   }
+
 
 
 
