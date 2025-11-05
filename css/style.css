@@ -1,10 +1,5 @@
 body {
-  font-family: sans-serif; 
-  line-height: 1.5;
-  background-color: azure;
-  color: #333333;
-  width: 980 px;
-  margin: 0 auto;
+    margin: 10 px;
   }
   h1 {
     text-align: center;
@@ -39,3 +34,4 @@ body {
   ul {
     margin-bottom: 10 px;
   }
+
