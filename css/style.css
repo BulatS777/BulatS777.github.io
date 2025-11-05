@@ -1,5 +1,7 @@
 body {
-    background-color: #4d31c7
+    background-color: #f8f9fa;
+    color: #333;
+    line-height: 1.6;
   }
   h1 {
     text-align: center;
@@ -34,5 +36,6 @@ body {
   ul {
     margin-bottom: 10 px;
   }
+
 
 
